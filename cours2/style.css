@@ -1,0 +1,38 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: #969495;
+  font-size: 25px;
+  font-family: 'Ubuntu', sans-serif;;
+}
+
+nav {
+    font-size:1em;
+    font-family: 'Ubuntu', sans-serif;;
+  }
+
+h1{
+  font-family: 'Ubuntu', sans-serif;;
+  color: #5d344a;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+h1#title{
+  font-size:70px;
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;;
+  color: #5d344a;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #ff0089;
+}
+a:hover {
+  text-decoration: none;
+  color: #ff0089;
+}
