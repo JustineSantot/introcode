@@ -79,7 +79,9 @@ a:hover {
   padding: 15px 0;
   text-align: center;
   width: 400px;
-  background-color: #41A3C0
+  background: #41A3C0;
+  align-items: center;
+  display: block;
 
 }
 
@@ -134,3 +136,5 @@ nav ul {
 #welcome h4{
  font-size: 50px;
 }
+
+
