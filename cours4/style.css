@@ -138,6 +138,7 @@ nav ul {
   padding: 50px;
   color: #e34799;
   background-image: url(https://images.unsplash.com/photo-1428954376791-d9ae785dfb2d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b1d1c3353d1a6b599d22960a10440ed8&auto=format&fit=crop&w=750&q=80);
+  background-size: cover;
 }
 
 #welcome h4{
@@ -150,11 +151,8 @@ nav ul {
   justify-content: center;
   text-align: center;
   color: #bd6b0b;
+  background-image: url(https://images.unsplash.com/photo-1428954376791-d9ae785dfb2d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b1d1c3353d1a6b599d22960a10440ed8&auto=format&fit=crop&w=750&q=80);
+  background-size: cover;
 
 }
 
-#1{
-  text-align: center;
-  color: #bd6b0b;
-
-}
